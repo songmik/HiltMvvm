@@ -1,4 +1,11 @@
-# MVVM (Hilt & DataBinding)
+# MVVM 패턴
 
 - Hilt를 사용한 MVVM 패턴 BaseCode
-- DataBinding을 사용함
+
+
+### 사용
+- MVVM
+- Hilt
+- DataBinding
+- Jetpack 
+  1. WorkManager
